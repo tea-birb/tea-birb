@@ -1,3 +1,4 @@
+# Hello, welcome to my profile!
 - 👋 Hi, I’m @tea-birb
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning Javascript!
